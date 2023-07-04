@@ -1,0 +1,23 @@
+
+	header {
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				height: 250px;
+				background-color: #1d520a;
+			}
+	body    {
+				background-color: #53913c;
+			}
+	footer {
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				height: 50px;
+				background-color: #a8d598;
+			}
+    h1      {
+                text-align: center;
+                color: #A8D598;
+            }
+    
