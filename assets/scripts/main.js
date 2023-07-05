@@ -7,3 +7,4 @@ var formattedDate = currentDate.toDateString();
 
 // Insert the formatted date into the HTML element with the id "currentDate"
 document.getElementById("currentDate").innerHTML = formattedDate;
+
